@@ -256,6 +256,6 @@ color: black;
  word-wrap: break-word
 ```
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-28 162639.png>)
+![image](https://github.com/Gokkul-M/Figma/assets/144870543/742f9cb8-57a6-483b-bec4-33e50f5a4285)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
